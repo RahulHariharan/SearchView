@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SearchBarApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type your stuff here</string>
+    <string name="title_activity_searchable">SearchableActivity</string>
+</resources>
